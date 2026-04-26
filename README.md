@@ -73,15 +73,6 @@ areas:
 
 ---
 
-## Mentalidad
-
-```
-No se trata solo de usar herramientas,
-sino de entender qué pasa detrás de ellas.
-```
-
----
-
 ## Objetivo
 
 Desarrollar sistemas donde converjan:

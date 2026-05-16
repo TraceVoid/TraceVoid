@@ -18,7 +18,7 @@ TraceVoid
  Apasionado por la **ciberseguridad ofensiva** y el análisis de sistemas  
  Desarrollador con enfoque en **backend y arquitecturas distribuidas**  
  Explorando constantemente el cruce entre **Machine Learning + Seguridad**  
- Me interesa entender cómo funcionan los sistemas *desde dentro*  
+ Interes real en entender cómo funcionan los sistemas *desde dentro*  
 
 ---
 
@@ -32,6 +32,8 @@ languages:
   - C/C++
   - HTML/CSS/JS
   - SQL
+  - Rust
+  - React
 
 cybersecurity:
   - Privilege Escalation
@@ -77,7 +79,7 @@ areas:
 
 Desarrollar sistemas donde converjan:
 
-- Anonimato y privacidad
+-  Anonimato y privacidad
 -  Seguridad ofensiva
 -  Automatización
 -  Inteligencia (ML)

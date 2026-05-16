@@ -87,12 +87,6 @@ Desarrollar sistemas donde converjan:
 
 ---
 
-## Actividad
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TraceVoid&show_icons=true&theme=tokyonight)
-
----
-
 ---
 
 ```
